@@ -90,6 +90,7 @@ body {
     padding: 5% 30%;
     text-decoration: none;
     margin-top: 10%;
+    border-style: none;
   }
   
   .btn:hover {
